@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zharif.aizuddin\\01Software_Dev\\DotNetMicrosoftLearn\\CsharpProject1\\TestProject\\TestProject.csproj",
-      "projectName": "TestProject",
-      "projectPath": "C:\\Users\\zharif.aizuddin\\01Software_Dev\\DotNetMicrosoftLearn\\CsharpProject1\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\zharif.aizuddin\\01Software_Dev\\DotNetMicrosoftLearn\\CsharpProject2\\CsharpProject2.csproj",
+      "projectName": "CsharpProject2",
+      "projectPath": "C:\\Users\\zharif.aizuddin\\01Software_Dev\\DotNetMicrosoftLearn\\CsharpProject2\\CsharpProject2.csproj",
       "packagesPath": "C:\\Users\\zharif.aizuddin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zharif.aizuddin\\01Software_Dev\\DotNetMicrosoftLearn\\CsharpProject1\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\zharif.aizuddin\\01Software_Dev\\DotNetMicrosoftLearn\\CsharpProject2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
