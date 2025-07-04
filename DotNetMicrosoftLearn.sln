@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CsharpProject1", "CsharpProject1", "{04C42B1B-52A6-6F8C-9F05-8B1E637609F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "CsharpProject1\TestProject\TestProject.csproj", "{16EA77A5-A04D-F224-D67A-221B0092035D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16EA77A5-A04D-F224-D67A-221B0092035D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16EA77A5-A04D-F224-D67A-221B0092035D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16EA77A5-A04D-F224-D67A-221B0092035D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16EA77A5-A04D-F224-D67A-221B0092035D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{16EA77A5-A04D-F224-D67A-221B0092035D} = {04C42B1B-52A6-6F8C-9F05-8B1E637609F5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCC43D7A-7047-462A-89EC-7F66A41D8240}
+	EndGlobalSection
+EndGlobal
