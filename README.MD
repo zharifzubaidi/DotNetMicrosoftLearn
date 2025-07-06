@@ -1,1 +1,9 @@
-#C# .NET Learning Repository
+### C# .NET Learning Repository
+## Useful Terminal Commands
+1. To create new .NET console project: 
+    -   dotnet new console -o ./<projectName>
+2. To add new project to solution file (similar to workspace):
+    -   dotnet sln add .\<csproject path>
+3. To add run the project
+    -   go to the directory that contain the csprojec file
+    -   dotnet run (will compile and run)
