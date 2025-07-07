@@ -1,7 +1,4 @@
-﻿
-using System;
-using System.Globalization;
-
+﻿// Boolean expression
 string userInput = "";
 Console.Write("Please select your example: ");
 userInput = Console.ReadLine();
