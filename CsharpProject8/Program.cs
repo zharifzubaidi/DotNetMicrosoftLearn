@@ -1,5 +1,5 @@
 ﻿
-// Code blocks
+// Switch case
 
 string? userInput = ""; // declare the string to expect a null value
 Console.Write("Please select your example: ");
@@ -102,8 +102,8 @@ if (userInput != null)
             Console.WriteLine($"Product: {size} {color} {type}");
         */
 
-        string sku = "01-MN-L";
-        string[] product = sku.Split('-');
+        string sku = "03-W-M";
+        string[] product = sku.Split('-');  // split by - delimiting characters
         string type = "";
         string color = "";
         string size = "";
@@ -130,70 +130,44 @@ if (userInput != null)
 
         switch (product[1])
         {
-            case "01":
-
+            case "BL":
+                color = "Black";
                 break;
 
-            case "02":
-
+            case "MN":
+                color = "Maroon";
                 break;
 
-            case "03":
-
+            case "W":
+                color = "White";
                 break;
 
             default:
-            
+                color = "Not in stock";
                 break;
 
         }
 
         switch (product[2])
         {
-            case "01":
-
+            case "S":
+                size = "Small";
                 break;
 
-            case "02":
-
+            case "M":
+                size = "Medium";
                 break;
 
-            case "03":
-
+            case "L":
+                size = "Large";
                 break;
 
             default:
-            
+                size = "Free Size";
                 break;
-
         }
 
-            if (product[1] == "BL")
-            {
-                color = "Black";
-            } else if (product[1] == "MN")
-            {
-                color = "Maroon";
-            } else
-            {
-                color = "White";
-            }
-
-            if (product[2] == "S")
-            {
-                size = "Small";
-            } else if (product[2] == "M")
-            {
-                size = "Medium";
-            } else if (product[2] == "L")
-            {
-                size = "Large";
-            } else
-            {
-                size = "One Size Fits All";
-            }
-
-            Console.WriteLine($"Product: {size} {color} {type}");
+        Console.WriteLine($"Product: {size} {color} {type}");
 
     }
     else if (userInput == "3")
@@ -201,54 +175,6 @@ if (userInput != null)
         // 
         Console.WriteLine("*****************************");
         Console.WriteLine("\tExample 3:");
-        Console.WriteLine("*****************************");
-
-    }
-    else if (userInput == "4")
-    {
-        // 
-        Console.WriteLine("*****************************");
-        Console.WriteLine("\tExample 4:");
-        Console.WriteLine("*****************************");
-
-    }
-    else if (userInput == "5")
-    {
-        // 
-        Console.WriteLine("*****************************");
-        Console.WriteLine("\tExample 5:");
-        Console.WriteLine("*****************************");
-
-    }
-    else if (userInput == "6")
-    {
-        // 
-        Console.WriteLine("*****************************");
-        Console.WriteLine("\tExample 6:");
-        Console.WriteLine("*****************************");
-
-    }
-    else if (userInput == "7")
-    {
-        // 
-        Console.WriteLine("*****************************");
-        Console.WriteLine("\tExample 7:");
-        Console.WriteLine("*****************************");
-
-    }
-    else if (userInput == "8")
-    {
-        // 
-        Console.WriteLine("*****************************");
-        Console.WriteLine("\tExercise 1:");
-        Console.WriteLine("*****************************");
-
-    }
-    else if (userInput == "9")
-    {
-        // 
-        Console.WriteLine("*****************************");
-        Console.WriteLine("\tExercise 2:");
         Console.WriteLine("*****************************");
 
     }

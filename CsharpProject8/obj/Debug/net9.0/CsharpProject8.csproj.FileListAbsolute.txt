@@ -1,0 +1,15 @@
+C:\Users\zharif.aizuddin\01Software_Dev\DotNetMicrosoftLearn\CsharpProject8\bin\Debug\net9.0\CsharpProject8.exe
+C:\Users\zharif.aizuddin\01Software_Dev\DotNetMicrosoftLearn\CsharpProject8\bin\Debug\net9.0\CsharpProject8.deps.json
+C:\Users\zharif.aizuddin\01Software_Dev\DotNetMicrosoftLearn\CsharpProject8\bin\Debug\net9.0\CsharpProject8.runtimeconfig.json
+C:\Users\zharif.aizuddin\01Software_Dev\DotNetMicrosoftLearn\CsharpProject8\bin\Debug\net9.0\CsharpProject8.dll
+C:\Users\zharif.aizuddin\01Software_Dev\DotNetMicrosoftLearn\CsharpProject8\bin\Debug\net9.0\CsharpProject8.pdb
+C:\Users\zharif.aizuddin\01Software_Dev\DotNetMicrosoftLearn\CsharpProject8\obj\Debug\net9.0\CsharpProject8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zharif.aizuddin\01Software_Dev\DotNetMicrosoftLearn\CsharpProject8\obj\Debug\net9.0\CsharpProject8.AssemblyInfoInputs.cache
+C:\Users\zharif.aizuddin\01Software_Dev\DotNetMicrosoftLearn\CsharpProject8\obj\Debug\net9.0\CsharpProject8.AssemblyInfo.cs
+C:\Users\zharif.aizuddin\01Software_Dev\DotNetMicrosoftLearn\CsharpProject8\obj\Debug\net9.0\CsharpProject8.csproj.CoreCompileInputs.cache
+C:\Users\zharif.aizuddin\01Software_Dev\DotNetMicrosoftLearn\CsharpProject8\obj\Debug\net9.0\CsharpProject8.sourcelink.json
+C:\Users\zharif.aizuddin\01Software_Dev\DotNetMicrosoftLearn\CsharpProject8\obj\Debug\net9.0\CsharpProject8.dll
+C:\Users\zharif.aizuddin\01Software_Dev\DotNetMicrosoftLearn\CsharpProject8\obj\Debug\net9.0\refint\CsharpProject8.dll
+C:\Users\zharif.aizuddin\01Software_Dev\DotNetMicrosoftLearn\CsharpProject8\obj\Debug\net9.0\CsharpProject8.pdb
+C:\Users\zharif.aizuddin\01Software_Dev\DotNetMicrosoftLearn\CsharpProject8\obj\Debug\net9.0\CsharpProject8.genruntimeconfig.cache
+C:\Users\zharif.aizuddin\01Software_Dev\DotNetMicrosoftLearn\CsharpProject8\obj\Debug\net9.0\ref\CsharpProject8.dll
