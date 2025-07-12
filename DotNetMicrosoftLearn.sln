@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpProject13", "CsharpPr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpProject14", "CsharpProject14\CsharpProject14.csproj", "{12FBB983-8CE2-4E91-9BCE-DC4240DDA0A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpProject15", "CsharpProject15\CsharpProject15.csproj", "{7628E082-2A16-4699-82A7-3E4A660BDE64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,18 @@ Global
 		{12FBB983-8CE2-4E91-9BCE-DC4240DDA0A9}.Release|x64.Build.0 = Release|Any CPU
 		{12FBB983-8CE2-4E91-9BCE-DC4240DDA0A9}.Release|x86.ActiveCfg = Release|Any CPU
 		{12FBB983-8CE2-4E91-9BCE-DC4240DDA0A9}.Release|x86.Build.0 = Release|Any CPU
+		{7628E082-2A16-4699-82A7-3E4A660BDE64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7628E082-2A16-4699-82A7-3E4A660BDE64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7628E082-2A16-4699-82A7-3E4A660BDE64}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7628E082-2A16-4699-82A7-3E4A660BDE64}.Debug|x64.Build.0 = Debug|Any CPU
+		{7628E082-2A16-4699-82A7-3E4A660BDE64}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7628E082-2A16-4699-82A7-3E4A660BDE64}.Debug|x86.Build.0 = Debug|Any CPU
+		{7628E082-2A16-4699-82A7-3E4A660BDE64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7628E082-2A16-4699-82A7-3E4A660BDE64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7628E082-2A16-4699-82A7-3E4A660BDE64}.Release|x64.ActiveCfg = Release|Any CPU
+		{7628E082-2A16-4699-82A7-3E4A660BDE64}.Release|x64.Build.0 = Release|Any CPU
+		{7628E082-2A16-4699-82A7-3E4A660BDE64}.Release|x86.ActiveCfg = Release|Any CPU
+		{7628E082-2A16-4699-82A7-3E4A660BDE64}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
