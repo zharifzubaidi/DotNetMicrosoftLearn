@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpProject14", "CsharpPr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpProject15", "CsharpProject15\CsharpProject15.csproj", "{7628E082-2A16-4699-82A7-3E4A660BDE64}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpProject16", "CsharpProject16\CsharpProject16.csproj", "{34B7EFFD-A4EA-414F-A542-A45138322C0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -251,6 +253,18 @@ Global
 		{7628E082-2A16-4699-82A7-3E4A660BDE64}.Release|x64.Build.0 = Release|Any CPU
 		{7628E082-2A16-4699-82A7-3E4A660BDE64}.Release|x86.ActiveCfg = Release|Any CPU
 		{7628E082-2A16-4699-82A7-3E4A660BDE64}.Release|x86.Build.0 = Release|Any CPU
+		{34B7EFFD-A4EA-414F-A542-A45138322C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B7EFFD-A4EA-414F-A542-A45138322C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B7EFFD-A4EA-414F-A542-A45138322C0F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{34B7EFFD-A4EA-414F-A542-A45138322C0F}.Debug|x64.Build.0 = Debug|Any CPU
+		{34B7EFFD-A4EA-414F-A542-A45138322C0F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{34B7EFFD-A4EA-414F-A542-A45138322C0F}.Debug|x86.Build.0 = Debug|Any CPU
+		{34B7EFFD-A4EA-414F-A542-A45138322C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B7EFFD-A4EA-414F-A542-A45138322C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34B7EFFD-A4EA-414F-A542-A45138322C0F}.Release|x64.ActiveCfg = Release|Any CPU
+		{34B7EFFD-A4EA-414F-A542-A45138322C0F}.Release|x64.Build.0 = Release|Any CPU
+		{34B7EFFD-A4EA-414F-A542-A45138322C0F}.Release|x86.ActiveCfg = Release|Any CPU
+		{34B7EFFD-A4EA-414F-A542-A45138322C0F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
