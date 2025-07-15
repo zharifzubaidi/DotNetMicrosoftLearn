@@ -1,4 +1,4 @@
-### C# .NET Learning Repository
+# C# .NET Learning Repository
 ## Useful Terminal Commands
 1. To create new .NET console project: 
     - dotnet new console -o ./<projectName>
