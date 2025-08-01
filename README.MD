@@ -1,5 +1,6 @@
 # C# .NET Learning Repository
 Completed this Microsoft - Freecodecamp C# course
+
 Freecodecamp certificate: https://www.freecodecamp.org/certification/zharifzubaidi/foundational-c-sharp-with-microsoft
 
 ## Useful Terminal Commands
